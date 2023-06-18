@@ -1,7 +1,8 @@
 module.exports = {
     title: '揽星河',
     description: '定子的博客',
-    dest: '.vuepress/dist',
+    dest: './dist',
+    base: '/dingZiBlog/',
     head: [
         [
             'link',
