@@ -1,7 +1,7 @@
 module.exports = {
     title: '揽星河',
     description: '定子的博客',
-    dest: './dist',
+    dest: 'public',
     base: '/dingZiBlog/',
     head: [
         [
